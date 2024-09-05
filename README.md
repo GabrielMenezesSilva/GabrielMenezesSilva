@@ -19,10 +19,10 @@ Passionné par la technologie et amateur de café, j'ai toujours été fasciné 
 
 
 <a href="https://github.com/GabrielMenezesSilva/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMenezesSilva&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMenezesSilva&theme=tokyonight" />
 </a>
 <a href="https://github.com/GabrielMenezesSilva/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMenezesSilva&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMenezesSilva&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <div/>
