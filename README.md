@@ -7,7 +7,8 @@
 
 
 
-Passionné par la technologie et amateur de café, j'ai toujours été fasciné par l'innovation technologique. Actuellement, je me spécialise en tant que développeur front-end, où je continue d'explorer de nouvelles solutions et tendances.
+Avide de technologie et passionné de café, j'ai toujours été fasciné par l'innovation technologique. Actuellement, je me spécialise en tant que développeur front-end, où je continue d'explorer de nouvelles solutions et tendances.
+
 <br><br>
  <br><br>
  <br><br>
