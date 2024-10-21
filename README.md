@@ -47,6 +47,7 @@ Avide de technologie et passionné de café, j'ai toujours été fasciné par l'
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrgabrielmenezes?ig_sh=MTMxODd6eWFiZHM1ZQ%3D%3D&utm_source=qr)<br>
 
 Site: https://menezesdev.netlify.app/
+<br/>
 Email de contact : mrgabrielmenezes@icloud.com
 
 
