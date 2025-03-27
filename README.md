@@ -47,7 +47,6 @@ Avide de technologie et passionné de café, j'ai toujours été fasciné par l'
 
 Site: https://portfolio.gabriel-menezes.com/
 <br/>
-Email de contact : mrgabrielmenezes@icloud.com
 
 
 <div/>
