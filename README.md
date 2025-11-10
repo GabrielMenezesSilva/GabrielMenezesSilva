@@ -45,7 +45,7 @@ Avide de technologie et passionné de café, j'ai toujours été fasciné par l'
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgabrielmenezesdasilva)
 
-Site: https://portfolio.gabriel-menezes.com/
+Site: https://gabriel-menezes.com/
 <br/>
 
 
